@@ -1,6 +1,6 @@
 const app = "I don't do much.";
 
-const token = "6b144d4bf1c4608afa7bd0248732dca0cc508f68"
+const token = "top secret"
 
 fetch('https://api.github.com/user/repos', {
   headers: {
